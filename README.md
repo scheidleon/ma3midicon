@@ -1,4 +1,7 @@
 # ma3midicon
+
+WARNING: THIS IS FOR MIDICON 2 CONTROLLERS!!! FOR MIDICON 1 CONTROLLERS USE THE ORIGINAL PROJECT!!! (https://github.com/ArtGateOne/ma3midicon)
+
 nodejs code to control ma3onpc 
 
 
